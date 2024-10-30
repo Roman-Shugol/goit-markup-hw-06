@@ -1,6 +1,6 @@
-GoIT Markup Homework #5
+GoIT Markup Homework #6
 
-Welcome to my fifth homework project for the GoIT Full Stack Course! 🎨
+Welcome to my sixth homework project for the GoIT Full Stack Course! 🎨
 
 Overview: This project builds upon the "Web Studio" website by adding form
 elements and modal window functionality based on the homework #5 mockups. It
@@ -10,7 +10,7 @@ using modern CSS techniques.
 Getting Started:
 
 1. Clone the repository: git clone
-   https://github.com/roman-shugol/goit-markup-hw-05.git
+   https://github.com/roman-shugol/goit-markup-hw-06.git
 
 2. Open index.html in your browser.
 
